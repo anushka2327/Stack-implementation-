@@ -1,4 +1,4 @@
-# Stack-implementation-
+
 # Stack-Implementation
 ## Overview
 
